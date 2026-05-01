@@ -3,10 +3,8 @@
 
 ## 👋 Hi, I'm Kunal
 
-- 🎓 B.Tech student at JSS Noida  
-- 🔍 Learning Data Science, Machine Learning & Deep Learning  
+- 🎓 B.Tech student at JSS Noida   
 - 💻 I enjoy building projects and exploring new tech  
-- 🌱 Currently working on: Deep Learning Projects
 - 📫 Reach me at: https://www.linkedin.com/in/kunal-salaria-b73522259/
 
 
